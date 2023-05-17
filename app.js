@@ -1,7 +1,7 @@
 import { Configuration, OpenAIApi } from 'openai'
+import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
-import fs from 'fs'
 
 // Configure OpenAI
 const configuration = new Configuration({
@@ -58,7 +58,7 @@ const test = async (model) => {
             result += completion.data.choices[i].text + '\n'
         }
 
-        console.log(result)
+        return result
     } catch (error) {
         console.error(error)
     }

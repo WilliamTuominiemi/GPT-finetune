@@ -1,143 +1,257 @@
-{"prompt": "Do you have a physical store?", "completion": "Yes, we have several physical stores located across the country. Please let me know if you would like more information and I can provide you with the address of the nearest store."}
-{"prompt": "Do you accept credit cards?", "completion": "Yes, we accept most major credit cards. Please let me know if you would like to pay with a credit card and I can help you with the process."}
-{"prompt": "Do you have gift cards?", "completion": "Yes, we have gift cards available for purchase. Please let me know if you would like to purchase a gift card and I can help you with the process."}
-{"prompt": "Is there a discount for bulk orders?", "completion": "Yes, we offer discounts for bulk orders. Please let me know what items you are interested in and I can provide you with more information."}
-{"prompt": "Do you have any special offers?", "completion": "Yes, we have a variety of special offers. Please let me know what type of offer you are interested in and I can provide you with more information."}
-{"prompt": "Can I get a refund?", "completion": "Yes, you can get a refund within 30 days of purchase. Please let me know what item you would like to return and I can help you with the process."}
-{"prompt": "Do you offer payment plans?", "completion": "Yes, we offer payment plans for certain items. Please let me know what item you are interested in and I can provide you with more information."}
-{"prompt": "Do you have a loyalty program?", "completion": "Yes, we have a loyalty program that rewards you for your purchases. Please let me know if you would like more information and I can provide you with the details."}
-{"prompt": "Can I get a discount code?", "completion": "Yes, we offer a variety of discount codes. Please let me know what type of discount code you are looking for and I can help you find the best deal."}
-{"prompt": "Do you offer free delivery?", "completion": "Yes, we offer free delivery for orders over $50. Please let me know if you would like to take advantage of this offer."}
-{"prompt": "Do you offer a warranty?", "completion": "Yes, we offer a limited warranty on most of our products. Please let me know what item you are interested in and I can provide more details."}
-{"prompt": "What are your return policies?", "completion": "We offer a 30-day money-back guarantee on all of our products. Please let me know if you would like to return an item and I can help you with the process."}
-{"prompt": "Do you have a rewards program?", "completion": "Yes, we have a rewards program that rewards you for your purchases. Please let me know if you would like more information and I can provide you with the details."}
-{"prompt": "Do you offer discounts for students?", "completion": "Yes, we offer discounts for students. Please let me know if you would like more information and I can provide you with the details."}
-{"prompt": "Do you have a loyalty program?", "completion": "Yes, we have a loyalty program that rewards you for your purchases. Please let me know if you would like more information and I can provide you with the details."}
-{"prompt": "Do you have a customer service line?", "completion": "Yes, we have a 24/7 customer service line that you can call anytime. The number is 1-800-123-4567."}
-{"prompt": "Do you offer free shipping?", "completion": "Yes, we offer free shipping on orders over $50. Please let me know if you would like to take advantage of this offer."}
-{"prompt": "Hello, how can I help you?", "completion": "Hi there, what can I do for you today?"}
-{"prompt": "I'm looking for a new phone", "completion": "What type of phone are you looking for?"}
-{"prompt": "I'm interested in a Samsung Galaxy S10", "completion": "The Samsung Galaxy S10 is a great choice. How can I help you with this phone?"}
-{"prompt": "What's the price of the Galaxy S10?", "completion": "The Samsung Galaxy S10 is currently priced at $799.99."}
-{"prompt": "Is there any way to get a discount?", "completion": "We do have a few promotions running at the moment, let me see if I can find one that applies to you."}
-{"prompt": "Are there any warranties?", "completion": "Yes, the Samsung Galaxy S10 comes with a standard one-year manufacturer warranty."}
-{"prompt": "Can I return it if I don't like it?", "completion": "Yes, you can return the Samsung Galaxy S10 within 30 days of purchase for a full refund, as long as it is in its original condition."}
-{"prompt": "Can I get it shipped to me?", "completion": "Yes, we can ship the Samsung Galaxy S10 to you. How would you like it shipped?"}
-{"prompt": "Can I get overnight shipping?", "completion": "Yes, we offer overnight shipping for an additional fee. Would you like to proceed with that?"}
-{"prompt": "Yes, please", "completion": "Great, I can have the Samsung Galaxy S10 shipped to you by tomorrow. Is there anything else I can help you with?"}
-{"prompt": "No, that's all", "completion": "OK, I have processed your order. Your Samsung Galaxy S10 will be delivered by tomorrow. Have a great day!"}
-{"prompt": "Thanks", "completion": "You're welcome. Have a great day!"}
-{"prompt": "Do you have any special offers?", "completion": "Yes, we have a variety of special offers. Please let me know what type of offer you are interested in and I can provide you with more information."}
-{"prompt": "Do you accept returns?", "completion": "Yes, we accept returns within 30 days of the purchase date. Please let me know if you would like to return an item and I can help you with the process."}
-{"prompt": "Do you have a rewards program?", "completion": "Yes, we have a rewards program that rewards you for your purchases. Please let me know if you would like more information and I can provide you with the details."}
-{"prompt": "Do you offer discounts for large orders?", "completion": "Yes, we offer discounts for large orders. Please let me know what items you are interested in and I can provide you with more information."}
-{"prompt": "Do you have a loyalty program?", "completion": "Yes, we have a loyalty program that rewards you for your purchases. Please let me know if you would like more information and I can provide you with the details."}
-{"prompt": "Do you offer payment plans?", "completion": "Yes, we offer payment plans for certain items. Please let me know what item you are interested in and I can provide you with more information."}
-{"prompt": "Do you offer free returns?", "completion": "Yes, we offer free returns for orders over $50. Please let me know if you would like to take advantage of this offer."}
-{"prompt": "Do you have any promotions?", "completion": "Yes, we have a variety of promotions throughout the year. Please let me know what type of items you are looking for and I can let you know what promotions we have available."}
-{"prompt": "Do you have a customer service number?", "completion": "Yes, we have a 24/7 customer service line that you can call anytime. The number is 1-800-123-4567."}
-{"prompt": "Can I get a refund?", "completion": "Yes, you can get a refund within 30 days of purchase. Please let me know what item you would like to return and I can help you with the process."}
-{"prompt": "Can I cancel my order?", "completion": "Yes, you can cancel your order within 24 hours of placing it. Please let me know if you would like to cancel your order and I can help you with the process."}
-{"prompt": "Do you accept credit cards?", "completion": "Yes, we accept most major credit cards. Please let me know if you would like to pay with a credit card and I can help you with the process."}
-{"prompt": "Do you offer any discounts?", "completion": "Yes, we offer a variety of discounts. Please let me know what type of discount you are interested in and I can help you find the best deal."}
-{"prompt": "Do you have gift cards?", "completion": "Yes, we have gift cards available for purchase. Please let me know if you would like to purchase a gift card and I can help you with the process."}
-{"prompt": "Do you offer a warranty?", "completion": "Yes, we offer a limited warranty on most of our products. Please let me know what item you are interested in and I can provide more details."}
-{"prompt": "Do you offer free delivery?", "completion": "Yes, we offer free delivery for orders over $50. Please let me know if you would like to take advantage of this offer."}
-{"prompt": "Do you offer payment plans?", "completion": "Yes, we offer payment plans for certain items. Please let me know what item you are interested in and I can provide you with more information."}
-{"prompt": "Do you have a loyalty program?", "completion": "Yes, we have a loyalty program that rewards you for your purchases. Please let me know if you would like more information and I can provide you with the details."}
-{"prompt": "Can I get a discount code?", "completion": "Yes, we offer a variety of discount codes. Please let me know what type of discount code you are looking for and I can help you find the best deal."}
-{"prompt": "What are your store hours?", "completion": "Our store hours are Monday-Saturday from 10am to 9pm and Sunday from 12pm to 6pm."}
-{"prompt": "Do you offer any discounts?", "completion": "Yes, we offer a variety of discounts. Please let me know what type of discount you are interested in and I can help you find the best deal."}
-{"prompt": "Do you have any sales?", "completion": "Yes, we have a variety of sales throughout the year. Please let me know what type of items you are looking for and I can let you know what sales we have available."}
-{"prompt": "Do you offer free shipping?", "completion": "Yes, we offer free shipping on orders over $50. Please let me know if you would like to take advantage of this offer."}
-{"prompt": "Do you offer returns?", "completion": "Yes, we offer returns within 30 days of the purchase date. Please let me know if you would like to return an item and I can help you with the process."}
-{"prompt": "Do you offer warranty?", "completion": "Yes, we offer a limited warranty on most of our products. Please let me know what item you are interested in and I can provide more details."}
-{"prompt": "Do you have a loyalty program?", "completion": "Yes, we have a loyalty program that rewards you for your purchases. Please let me know if you would like more information and I can provide you with the details."}
-{"prompt": "Do you have a customer service number?", "completion": "Yes, we have a 24/7 customer service line that you can call anytime. The number is 1-800-123-4567."}
-{"prompt": "Can I cancel my order?", "completion": "Yes, you can cancel your order within 24 hours of placing it. Please let me know if you would like to cancel your order and I can help you with the process."}
-{"prompt": "Can I exchange an item?", "completion": "Yes, you can exchange an item within 30 days of the purchase date. Please let me know what item you would like to exchange and I can help you with the process."}
-{"prompt": "Hello, how can I help you?", "completion": "Hi there, what can I do for you today?"}
-{"prompt": "I'm looking for a new phone", "completion": "What type of phone are you looking for?"}
-{"prompt": "I'm interested in a Samsung Galaxy S10", "completion": "The Samsung Galaxy S10 is a great choice. How can I help you with this phone?"}
-{"prompt": "What's the price of the Galaxy S10?", "completion": "The Samsung Galaxy S10 is currently priced at $799.99."}
-{"prompt": "Is there any way to get a discount?", "completion": "We do have a few promotions running at the moment, let me see if I can find one that applies to you."}
-{"prompt": "Are there any warranties?", "completion": "Yes, the Samsung Galaxy S10 comes with a standard one-year manufacturer warranty."}
-{"prompt": "Can I return it if I don't like it?", "completion": "Yes, you can return the Samsung Galaxy S10 within 30 days of purchase for a full refund, as long as it is in its original condition."}
-{"prompt": "Can I get it shipped to me?", "completion": "Yes, we can ship the Samsung Galaxy S10 to you. How would you like it shipped?"}
-{"prompt": "Can I get overnight shipping?", "completion": "Yes, we offer overnight shipping for an additional fee. Would you like to proceed with that?"}
-{"prompt": "Yes, please", "completion": "Great, I can have the Samsung Galaxy S10 shipped to you by tomorrow. Is there anything else I can help you with?"}
-{"prompt": "No, that's all", "completion": "OK, I have processed your order. Your Samsung Galaxy S10 will be delivered by tomorrow. Have a great day!"}
-{"prompt": "Thanks", "completion": "You're welcome. Have a great day!"}
-{"prompt": "Can I get free shipping?", "completion": "Yes, we do offer free shipping for orders over $50. Would you like to proceed with that?"}
-{"prompt": "Do you have a loyalty program?", "completion": "Yes, we do offer a loyalty program for frequent customers. Would you like to sign up for it?"}
-{"prompt": "What are the benefits of the loyalty program?", "completion": "The loyalty program offers exclusive discounts, early access to new products, and priority customer service."}
-{"prompt": "Do you have any payment plans?", "completion": "Yes, we do offer payment plans for our products. Would you like to learn more about them?"}
-{"prompt": "What kind of payment plans do you offer?", "completion": "We offer a variety of payment plans, including monthly installments and interest-free financing."}
-{"prompt": "Do you offer any discounts?", "completion": "Yes, we do offer discounts on select products. Would you like to learn more about them?"}
-{"prompt": "What kind of discounts do you offer?", "completion": "We offer a variety of discounts, including student discounts, military discounts, and promotional discounts."}
-{"prompt": "Can I get a discount on the Galaxy S10?", "completion": "Yes, we do offer a promotional discount on the Samsung Galaxy S10. Would you like to learn more about it?"}
-{"prompt": "Do you have any accessories?", "completion": "Yes, we do offer a variety of accessories for the Samsung Galaxy S10. Would you like to learn more about them?"}
-{"prompt": "Do you offer technical support?", "completion": "Yes, we do offer technical support for our products. What can I help you with?"}
-{"prompt": "My phone isn't working properly", "completion": "I'm sorry to hear that. Let me see if I can help you troubleshoot the issue."}
-{"prompt": "I can't connect to the internet", "completion": "Let me check your phone's settings and see if I can help you get connected to the internet."}
-{"prompt": "Do you have any warranty information?", "completion": "Yes, the Samsung Galaxy S10 comes with a standard one-year manufacturer warranty. Would you like to learn more about it?"}
-{"prompt": "What happens if it breaks?", "completion": "If your Samsung Galaxy S10 breaks within the one-year warranty period, you can return it and we will repair or replace it for free."}
-{"prompt": "Do you offer any upgrades?", "completion": "Yes, we do offer upgrades for the Samsung Galaxy S10. Would you like to learn more about them?"}
-{"prompt": "What kind of upgrades do you offer?", "completion": "We offer a variety of upgrades, including memory upgrades, processor upgrades, and storage upgrades."}
-{"prompt": "Can I get a refund if I change my mind?", "completion": "Yes, you can return the Samsung Galaxy S10 within 30 days of purchase for a full refund, as long as it is in its original condition."}
-{"prompt": "Are there any hidden fees?", "completion": "No, there are no hidden fees. The price you see is the price you pay."}
-{"prompt": "Do you offer international shipping?", "completion": "Yes, we do offer international shipping for an additional fee. Would you like to proceed with that?"}
-{"prompt": "What's the estimated delivery time?", "completion": "The estimated delivery time for international orders is 7-15 business days, depending on the destination country."}
-{"prompt": "Do you provide tracking information?", "completion": "Yes, we provide tracking information for all orders. Would you like me to send it to you?"}
-{"prompt": "Yes, please", "completion": "Great, I have sent the tracking information to your email address. Is there anything else I can help you with?"}
-{"prompt": "No, that's all", "completion": "OK, I have processed your order. Your Samsung Galaxy S10 will be delivered soon. Have a great day!"}
-{"prompt": "Thanks", "completion": "You're welcome. Have a great day!"}
-{"prompt": "Do you offer any other products?", "completion": "Yes, we do offer a variety of other products. Would you like to learn more about them?"}
-{"prompt": "What other products do you offer?", "completion": "We offer a wide range of products, including laptops, tablets, and accessories."}
-{"prompt": "Do you offer any special deals?", "completion": "Yes, we do offer special deals from time to time. Would you like to learn more about them?"}
-{"prompt": "What kind of special deals do you offer?", "completion": "We offer a variety of special deals, including bundle deals, free gifts, and promotional discounts."}
-{"prompt": "Can I get a discount on a laptop?", "completion": "Yes, we do offer a promotional discount on select laptops. Would you like to learn more about it?"}
-{"prompt": "Do you offer any warranties?", "completion": "Yes, we do offer a standard one-year manufacturer warranty on select products. Would you like to learn more about it?"}
-{"prompt": "What happens if the laptop breaks?", "completion": "If your laptop breaks within the one-year warranty period, you can return it and we will repair or replace it for free."}
-{"prompt": "Do you have any payment plans?", "completion": "Yes, we do offer payment plans for our products. Would you like to learn more about them?"}
-{"prompt": "What kind of payment plans do you offer?", "completion": "We offer a variety of payment plans, including monthly installments and interest-free financing."}
-{"prompt": "Do you offer any upgrades?", "completion": "Yes, we do offer upgrades for select laptops. Would you like to learn more about them?"}
-{"prompt": "What kind of upgrades do you offer?", "completion": "We offer a variety of upgrades, including memory upgrades, processor upgrades, and storage upgrades."}
-{"prompt": "Can I get free shipping?", "completion": "Yes, we do offer free shipping for orders over $50. Would you like to proceed with that?"}
-{"prompt": "Do you provide tracking information?", "completion": "Yes, we provide tracking information for all orders. Would you like me to send it to you?"}
-{"prompt": "Yes, please", "completion": "Great, I have sent the tracking information to your email address. Is there anything else I can help you with?"}
-{"prompt": "No, that's all", "completion": "OK, I have processed your order. Your new laptop will be delivered soon. Have a great day!"}
-{"prompt": "Thanks", "completion": "You're welcome. Have a great day!"}
-{"prompt": "What other phones do you have?", "completion": "We have a wide range of other phones available. Which type are you interested in?"}
-{"prompt": "I'm looking for an Apple iPhone", "completion": "We have the Apple iPhone 11, 11 Pro, and 11 Pro Max available. What can I do for you today?"}
-{"prompt": "What's the price of the iPhone 11?", "completion": "The iPhone 11 is currently priced at $699.99."}
-{"prompt": "Do you have any deals on this phone?", "completion": "We do have some promotions running on the iPhone 11. Let me see if I can find one that applies to you."}
-{"prompt": "What warranty do you offer?", "completion": "The Apple iPhone 11 comes with a standard one-year manufacturer warranty."}
-{"prompt": "Can I return it if I don't like it?", "completion": "Yes, you can return the Apple iPhone 11 within 30 days of purchase for a full refund, as long as it is in its original condition."}
-{"prompt": "Can I get it shipped to me?", "completion": "Yes, we can ship the Apple iPhone 11 to you. How would you like it shipped?"}
-{"prompt": "Can I get it overnight?", "completion": "Yes, we offer overnight shipping for an additional fee. Would you like to proceed with that?"}
-{"prompt": "Yes, please", "completion": "Great, I can have the Apple iPhone 11 shipped to you by tomorrow. Is there anything else I can help you with?"}
-{"prompt": "No, that's all", "completion": "OK, I have processed your order. Your Apple iPhone 11 will be delivered by tomorrow. Have a great day!"}
-{"prompt": "Thanks", "completion": "You're welcome. Have a great day!"}
-{"prompt": "Do you have any other phones?", "completion": "Yes, we have a wide range of other phones available. What type are you interested in?"}
-{"prompt": "I'm looking for a Google Pixel", "completion": "We have the Google Pixel 3 and 3 XL available. What can I do for you today?"}
-{"prompt": "What's the price of the Pixel 3?", "completion": "The Google Pixel 3 is currently priced at $799.99."}
-{"prompt": "Are there any deals on this phone?", "completion": "We do have some promotions running on the Google Pixel 3. Let me see if I can find one that applies to you."}
-{"prompt": "What warranty do you offer?", "completion": "The Google Pixel 3 comes with a standard one-year manufacturer warranty."}
-{"prompt": "Can I return it if I don't like it?", "completion": "Yes, you can return the Google Pixel 3 within 30 days of purchase for a full refund, as long as it is in its original condition."}
-{"prompt": "Can I get it shipped to me?", "completion": "Yes, we can ship the Google Pixel 3 to you. How would you like it shipped?"}
-{"prompt": "Can I get it overnight?", "completion": "Yes, we offer overnight shipping for an additional fee. Would you like to proceed with that?"}
-{"prompt": "Yes, please", "completion": "Great, I can have the Google Pixel 3 shipped to you by tomorrow. Is there anything else I can help you with?"}
-{"prompt": "No, that's all", "completion": "OK, I have processed your order. Your Google Pixel 3 will be delivered by tomorrow. Have a great day!"}
-{"prompt": "Thanks", "completion": "You're welcome. Have a great day!"}
-{"prompt": "What other phones do you have?", "completion": "We have a variety of other phones available. What type are you interested in?"}
-{"prompt": "I'm looking for a Motorola Moto G7", "completion": "We have the Motorola Moto G7 available. What can I do for you today?"}
-{"prompt": "What's the price of the Moto G7?", "completion": "The Motorola Moto G7 is currently priced at $299.99."}
-{"prompt": "Do you have any deals on this phone?", "completion": "We do have some promotions running on the Motorola Moto G7. Let me see if I can find one that applies to you."}
-{"prompt": "What warranty do you offer?", "completion": "The Motorola Moto G7 comes with a standard one-year manufacturer warranty."}
-{"prompt": "Can I return it if I don't like it?", "completion": "Yes, you can return the Motorola Moto G7 within 30 days of purchase for a full refund, as long as it is in its original condition."}
-{"prompt": "Can I get it shipped to me?", "completion": "Yes, we can ship the Motorola Moto G7 to you. How would you like it shipped?"}
-{"prompt": "Can I get it overnight?", "completion": "Yes, we offer overnight shipping for an additional fee. Would you like to proceed with that?"}
-{"prompt": "Yes, please", "completion": "Great, I can have the Motorola Moto G7 shipped to you by tomorrow. Is there anything else I can help you with?"}
-{"prompt": "No, that's all", "completion": "OK, I have processed your order. Your Motorola Moto G7 will be delivered by tomorrow. Have a great day!"}
-{"prompt": "Thanks", "completion": "You're welcome. Have a great day!"}
+{"prompt": "What is your return policy?", "completion": "We offer a 30-day return policy."}
+{"prompt": "Do you have any discounts?", "completion": "We offer a variety of discounts and promotions."}
+{"prompt": "How do I track my order?", "completion": "You can track your order using the tracking number provided in your order confirmation email."}
+{"prompt": "When will I receive my order?", "completion": "Your order should arrive within the estimated delivery time provided during checkout."}
+{"prompt": "How do I change my order?", "completion": "To change your order, please contact our Customer Service team."}
+{"prompt": "Do you have a size chart?", "completion": "Yes, we have a size chart available on our website."}
+{"prompt": "What payment methods do you accept?", "completion": "We accept Visa, Mastercard, American Express, and PayPal."}
+{"prompt": "How can I contact you?", "completion": "You can contact us by phone, email, or through our website."}
+{"prompt": "How can I cancel my order?", "completion": "To cancel your order, please contact our Customer Service team."}
+{"prompt": "How long does it take to process an order?", "completion": "Orders typically take 1-2 business days to process."}
+{"prompt": "Do you offer express shipping?", "completion": "Yes, we offer express shipping for orders placed before 11am EST."}
+{"prompt": "Do you offer international shipping?", "completion": "Yes, we offer international shipping to select countries."}
+{"prompt": "Do you have a rewards program?", "completion": "Yes, we have a rewards program for customers who make frequent purchases."}
+{"prompt": "What is your privacy policy?", "completion": "We respect your privacy and take protecting it seriously. Please see our Privacy Policy for more information."}
+{"prompt": "What is your refund policy?", "completion": "We offer refunds for items returned within 30 days of purchase in accordance with our return policy."}
+{"prompt": "Do you offer gift cards?", "completion": "Yes, we offer gift cards in various denominations."}
+{"prompt": "Do you have a loyalty program?", "completion": "Yes, we have a loyalty program for customers who make frequent purchases."}
+{"prompt": "Do you offer wholesale pricing?", "completion": "Yes, we offer wholesale pricing for orders over a certain quantity."}
+{"prompt": "What is your warranty policy?", "completion": "We offer a 1-year warranty on all our products in accordance with our warranty policy."}
+{"prompt": "Can I make changes to my order after it has been placed?", "completion": "Yes, you can make changes to your order as long as it has not been shipped yet."}
+{"prompt": "Do you ship to PO Boxes?", "completion": "Yes, we ship to PO Boxes in select countries."}
+{"prompt": "How can I change my shipping address?", "completion": "You can change your shipping address by contacting our Customer Service team."}
+{"prompt": "What are your shipping rates?", "completion": "Our shipping rates vary depending on the destination and the shipping method chosen."}
+{"prompt": "When will my order be shipped out?", "completion": "Your order will be shipped out within 1-2 business days from the date of purchase."}
+{"prompt": "Do you offer free returns?", "completion": "Yes, we offer free returns on all orders within 30 days of purchase."}
+{"prompt": "What is the estimated delivery time for my order?", "completion": "The estimated delivery time for your order will be provided during checkout."}
+{"prompt": "What is your cancellation policy?", "completion": "We offer a 30-day cancellation policy for orders that have not been shipped yet."}
+{"prompt": "Do you have any special offers?", "completion": "We offer a variety of special offers and promotions from time to time."}
+{"prompt":"Can I get a discount if I buy in bulk?", 	"completion":"Yes, we offer bulk discounts for orders over a certain quantity." }
+{"prompt":"Do you provide customer support?","completion":"Yes, we provide customer support through our website and phone line." }
+{"prompt":"Is my information secure when ordering online?","completion":"Yes, all information is encrypted and securely transmitted when ordering online." }
+{"prompt":"What is the status of my order?","completion":"You can check the status of your order using the tracking number provided in your order confirmation email." }
+{"prompt":"Can I add items to my order after it has been placed? ","completion":"Yes, as long as your order has not been shipped yet, you can add items to your order by contacting our Customer Service team." }
+{"prompt":"Do you offer gift wrapping? ","completion":"Yes, we offer gift wrapping options for an additional fee at checkout." }
+{"prompt":"How can I contact customer service? ","completion":"You can contact our Customer Service team by phone, email, or through our website." }
+{"prompt":"How do I use a coupon code? ","completion":"You can use a coupon code at checkout by entering the code in the designated field before completing your purchase." }
+{"prompt":"What is the difference between standard and express shipping? ","completion":"Standard shipping typically takes 5-7 business days, while express shipping takes 1-3 business days." }
+{"prompt":"Are there any taxes or duties on my order? ","completion":"Taxes and duties vary by destination and may be applicable on international orders." }
+{"prompt":"How do I know if my order has been shipped? ", 	"completion":"You will receive an email notification when your order has been shipped with the tracking number included." }
+{"prompt":"Do you offer price matching? ","completion":"Yes, we offer price matching on select products. Please contact our Customer Service team for more information." }
+{"prompt":"Do you accept returns? ","completion":"Yes, we accept returns within 30 days of purchase in accordance with our return policy." }
+{"prompt":"What is the cost of shipping? ","completion":"The cost of shipping will vary depending on the destination and the shipping method chosen." }
+{"prompt":"Can I exchange an item? ","completion":"Yes, you can exchange an item as long as it meets the requirements of our return policy." }
+{"prompt":"Can I get a refund if I am not satisfied with my order? ","completion":"Yes, you can get a refund as long as you meet the requirements of our return policy." }
+{"prompt":"Do you have a store I can visit? ","completion":"No, we are an online-only store and do not have physical stores at this time." }
+{"prompt":"Do you accept international orders? ","completion":"Yes, we accept international orders to select countries. Please contact our Customer Service team for more information." }
+{"prompt": "Do you offer a satisfaction guarantee?","completion": "We stand behind our products 100% and offer a full satisfaction guarantee."}
+{"prompt": "Can you help me find a certain product?", "completion": "Yes, please let me know the exact item and I will do my best to help you locate it."}
+{"prompt": "Do you have a shipping tracking service?", "completion": "Yes, we offer a tracking service for all orders to ensure your item arrives safely and on time."}
+{"prompt": "How long does delivery usually take?", "completion": "Delivery times vary depending on the destination, but typically arrive within 2-5 business days."}
+{"prompt": "What payment methods do you accept?", "completion": "We accept Visa, MasterCard, American Express, and PayPal."}
+{"prompt": "Do you offer free returns?", "completion": "Yes, we offer free returns within 30 days of purchase."}
+{"prompt": "Do you have any discounts or promotions?", "completion": "Yes, please check our website for any current promotions or discounts."}
+{"prompt": "Can I cancel my order?", "completion": "Yes, you can cancel your order as long as it has not been shipped yet."}
+{"prompt": "Can I get a refund?", "completion": "Yes, we offer full refunds for unused, unopened items within 30 days of purchase."}
+{"prompt": "Do you offer gift wrapping?", "completion": "Yes, we offer gift wrapping services for a nominal fee."}
+{"prompt": "Do you have a loyalty program?", "completion": "Yes, we have a loyalty program for returning customers that offers discounts and exclusive offers."}
+{"prompt": "Do you offer wholesale pricing?", "completion": "Yes, we offer wholesale pricing for bulk orders. Please contact us for more information."}
+{"prompt": "What is your return policy?", "completion": "We accept returns within 30 days of purchase for unused, unopened items. Please refer to our return policy on our website for more information."}
+{"prompt": "What is your privacy policy?", "completion": "We take customer privacy seriously and protect all customer data according to our privacy policy. Please refer to our privacy policy on our website for more information."}
+{"prompt": "What is your shipping policy?", "completion": "We offer free shipping on all orders within the continental US. For international orders, please refer to our shipping policy on our website for more information."}
+{"prompt": "Are your products authentic?", "completion": "Yes, all of our products are 100% authentic and sourced from reputable suppliers."}
+{"prompt": "Do you have a customer service number?", "completion": "Yes, we have a customer service number that is available 24/7. Please refer to our contact page on our website for more information."}
+{"prompt": "Do you ship internationally?", "completion": "Yes, we offer international shipping to most countries. Please refer to our shipping policy on our website for more information."}
+{"prompt": "Do you have a store I can visit?", "completion": "Yes, we have several physical store locations. Please refer to our store locator page on our website for more information."}
+{"prompt": "Do you offer gift cards?", "completion": "Yes, we offer gift cards in various denominations. Please refer to our gift card page on our website for more information."}
+{"prompt": "Do you accept coupons?", "completion": "Yes, we accept coupons from select vendors. Please refer to the coupon page on our website for more information."}
+{"prompt": "Do you have a warranty?", "completion": "Yes, we offer a limited manufacturer's warranty on select products. Please refer to the warranty page on our website for more information."}
+{"prompt": "What is the status of my order?", "completion": "You can check the status of your order by logging into your account or contacting us directly."}
+{"prompt": "How can I contact you?", "completion": "You can contact us through email, phone, or live chat. Please refer to our contact page on our website for more information."}
+{"prompt": "Do you have any special offers?", "completion": "Yes, please check our website for any current special offers or discounts."}
+{"prompt":" How do I track my order?", "completion":" You can track your order by logging into your account or contacting us directly."}
+{"prompt": "Do you have a loyalty program?", "completion":" Yes, we have a loyalty program for returning customers that offers discounts and exclusive offers."}
+{"prompt":" Are your products of good quality?", "completion":" Yes, all of our products are made with high-quality materials and are backed by a satisfaction guarantee."}
+{"prompt":" Can I pick up my order in person?", "completion":" Yes, we offer in-store pickup at select locations. Please refer to the store locator page on our website for more information."}
+{"prompt":" Are your products eco-friendly?", "completion":" Yes, many of our products are made with eco-friendly materials and processes. Please refer to our sustainability page on our website for more information."}
+{"prompt":" Do you offer same-day delivery?", "completion":" Yes, we offer same-day delivery for orders placed before noon in select cities. Please refer to the delivery page on our website for more information."}
+{"prompt":" What is your refund policy?", "completion":" We accept returns within 30 days of purchase for unused, unopened items. Please refer to our return policy on our website for more information."}
+{"prompt":" Can I exchange my order?", "completion":" Yes, we offer exchanges within 30 days of purchase. Please refer to our exchange policy on our website for more information."}
+{"prompt":" How secure is my payment information?", "completion":" We use industry-standard encryption technology to ensure the security of your payment information."}
+{"prompt":" What type of customer support do you provide?", "completion":" We provide customer support via email, phone, and live chat. Please refer to our contact page on our website for more information."}
+{"prompt":" Do you have an app?", "completion":" Yes, we have an app available for both iOS and Android devices. Please visit the app store or Google Play store to download the app."}
+{"prompt":" Do you accept returns from international customers?", "completion":" Yes, we accept returns from international customers within 30 days of purchase. Please refer to our return policy on our website for more information."}
+{"prompt":" How can I track my shipment?", "completion":" You can track your shipment by logging into your account or contacting us directly."}
+{"prompt":" What is the estimated delivery time?", "completion":" Delivery times vary depending on the destination, but typically arrive within 2-5 business days."}
+{"prompt":" How do I use a coupon code?", "completion":" You can enter your coupon code during checkout. Please refer to the coupon page on our website for more information."}
+{"prompt":" What is your privacy policy?", "completion":" We take customer privacy seriously and protect all customer data according to our privacy policy. Please refer to our privacy policy on our website for more information."}
+{"prompt": "Are there any discounts available?", "completion": "Yes, we have a variety of discounts available. Please let me know if you would like to know more about them."}
+{"prompt": "How long does shipping usually take?", "completion": "Shipping usually takes anywhere from 1-3 business days depending on the destination."}
+{"prompt": "What payment methods do you accept?", "completion": "We accept most major credit cards, PayPal, and Apple Pay."}
+{"prompt": "Do you offer international shipping?", "completion": "Yes, we offer international shipping to many countries. Please let me know if you would like to know more about our international shipping policies."}
+{"prompt": "Do you have a returns policy?", "completion": "Yes, we have a 30-day returns policy. Please let me know if you would like to know more about our returns policy."}
+{"prompt": "Can I track my order?", "completion": "Yes, you can track your order once it has been shipped. Please let me know if you would like me to provide you with the tracking information."}
+{"prompt": "Do you offer gift cards?", "completion": "Yes, we offer gift cards that can be used towards purchases on our website. Please let me know if you would like to know more about our gift cards."}
+{"prompt": "Are your products genuine?", "completion": "Yes, all of our products are 100% genuine and sourced directly from the manufacturer."}
+{"prompt": "What is your customer service contact information?", "completion": "Our customer service contact information can be found on our website. Please let me know if you would like me to provide you with the details."}
+{"prompt": "Do you have a loyalty program?", "completion": "Yes, we have a loyalty program which rewards customers for their loyalty. Please let me know if you would like to know more about our loyalty program."}
+{"prompt": "How can I contact you?", "completion": "You can contact us through our website or by email. Please let me know if you would like me to provide you with the contact information."}
+{"prompt": "Do you offer wholesale prices?", "completion": "Yes, we offer wholesale prices for bulk orders. Please let me know if you would like to know more about our wholesale pricing."}
+{"prompt": "What is the shipping cost?", "completion": "The shipping cost will depend on the size and weight of the item. Please let me know if you would like me to provide you with an estimate."}
+{"prompt": "Do you have any special offers?", "completion": "Yes, we have regular promotional offers that can be found on our website. Please let me know if you would like to know more about them."}
+{"prompt": "Do you offer express shipping?", "completion": "Yes, we offer express shipping for an additional cost. Please let me know if you would like to know more about our express shipping services."}
+{"prompt": "Is there a minimum order amount?", "completion": "Yes, there is a minimum order amount of $25. Please let me know if you would like to know more about our minimum order requirements."}
+{"prompt": "Do you provide customer support?", "completion": "Yes, we provide customer support through our website and over the phone. Please let me know if you would like to know more about our customer support services."}
+{"prompt": "Do you offer gift wrapping?", "completion": "Yes, we offer gift wrapping for an additional cost. Please let me know if you would like to know more about our gift wrapping services."}
+{"prompt": "How long does it take to process an order?", "completion": "It usually takes 1-2 business days for us to process an order. Please let me know if you would like to know more about our processing times."}
+{"prompt": "Do you have any special discounts?", "completion": "Yes, we offer special discounts for frequent customers. Please let me know if you would like to know more about our discounts."}
+{"prompt": "Do you offer free returns?", "completion": "Yes, we offer free returns for orders that are within the returns policy. Please let me know if you would like to know more about our returns policy."}
+{"prompt": "Do you offer custom orders?", "completion": "Yes, we offer custom orders for an additional fee. Please let me know if you would like to know more about our custom order services."}
+{"prompt": "Do you offer discounts for large orders?", "completion": "Yes, we offer discounts for large orders. Please let me know if you would like to know more about our discount offers."}
+{"prompt": "What is the estimated delivery time?", "completion": "The estimated delivery time will depend on the destination. Please let me know if you would like me to provide you with an estimate."}
+{"prompt": "Do you accept cash on delivery?", "completion": "No, we do not accept cash on delivery. Please let me know if you would like to know more about our payment methods."}
+{"prompt": "Can I cancel my order?", "completion": "Yes, you can cancel your order as long as it hasn't been processed yet. Please let me know if you would like to know more about our cancellation policies."}
+{"prompt": "Do you offer discounts for students?", "completion": "Yes, we offer discounts for students. Please let me know if you would like to know more about our student discounts."}
+{"prompt": "Can I change my order?", "completion": "Yes, you can change your order as long as it hasn't been processed yet. Please let me know if you would like to know more about our modification policies."}
+{"prompt": "Do you offer discounts for bulk orders?", "completion": "Yes, we offer discounts for bulk orders. Please let me know if you would like to know more about our discount offers."}
+{"prompt": "Do you offer any special services?", "completion": "Yes, we offer a variety of special services. Please let me know if you would like to know more about our services."}
+{"prompt": "Do you have a loyalty rewards program?", "completion": "Yes, we have a loyalty rewards program which rewards customers for their loyalty. Please let me know if you would like to know more about our loyalty rewards program."}
+{"prompt": "What is your refund policy?", "completion": "Our refund policy can be found on our website. Please let me know if you would like me to provide you with the details."}
+{"prompt": "Do you offer discounts for first-time customers?", "completion": "Yes, we offer discounts for first-time customers. Please let me know if you would like to know more about our discount offers."}
+{"prompt": "Do you offer expedited shipping?", "completion": "Yes, we offer expedited shipping for an additional cost. Please let me know if you would like to know more about our expedited shipping services."}
+{"prompt": "Do you have a customer loyalty program?", "completion": "Yes, we have a customer loyalty program which rewards customers for their loyalty. Please let me know if you would like to know more about our loyalty program."}
+{"prompt": "Do you offer discounts for repeat customers?", "completion": "Yes, we offer discounts for repeat customers. Please let me know if you would like to know more about our discount offers."}
+{"prompt": "Do you offer gift certificates?", "completion": "Yes, we offer gift certificates that can be used towards purchases on our website. Please let me know if you would like to know more about our gift certificates."}
+{"prompt": "Do you offer same-day shipping?", "completion": "Yes, we offer same-day shipping for an additional cost. Please let me know if you would like to know more about our same-day shipping services."}
+{"prompt": "Do you offer discounts for military personnel?", "completion": "Yes, we offer discounts for military personnel. Please let me know if you would like to know more about our discount offers."}
+{"prompt": "Do you ship to PO boxes?", "completion": "Yes, we ship to PO boxes. Please let me know if you would like to know more about our shipping policies."}
+{"prompt": "What is the estimated shipping time?", "completion": "The estimated shipping time will depend on the destination. Please let me know if you would like me to provide you with an estimate."}
+{"prompt": "Do you offer price matching?", "completion": "Yes, we offer price matching on select items. Please let me know if you would like to know more about our price matching policies."}
+{"prompt": "Do you offer promo codes?", "completion": "Yes, we offer promo codes that can be used towards purchases on our website. Please let me know if you would like to know more about our promo codes."}
+{"prompt": "Do you offer free returns?", "completion": "Yes, we offer free returns for orders that are within the returns policy. Please let me know if you would like to know more about our returns policy."}
+{"prompt": "Do you offer overnight shipping?", "completion": "Yes, we offer overnight shipping for an additional cost. Please let me know if you would like to know more about our overnight shipping services."}
+{"prompt": "Are your products covered by a warranty?", "completion": "Yes, all of our products are covered by a manufacturer's warranty. Please let me know if you would like to know more about our warranty terms."}
+{"prompt": "Do you offer discounts for referrals?", "completion": "Yes, we offer discounts for referrals. Please let me know if you would like to know more about our referral discounts."}
+{"prompt": "Do you offer free gift wrapping?", "completion": "Yes, we offer free gift wrapping on select items. Please let me know if you would like to know more about our gift wrapping services."}
+{"prompt": "Do you offer discounts for bulk orders?", "completion": "Yes, we offer discounts for bulk orders. Please let me know if you would like to know more about our discount offers."}
+{"prompt": "Do you offer discounts for newsletter subscribers?", "completion": "Yes, we offer discounts for newsletter subscribers. Please let me know if you would like to know more about our newsletter discounts."}
+{"prompt": "Do you offer price protection?", "completion": "Yes, we offer price protection on select items. Please let me know if you would like to know more about our price protection policies."}
+{"prompt": "Do you offer military discounts?", "completion": "Yes, we offer discounts for military personnel. Please let me know if you would like to know more about our military discounts."}
+{"prompt": "Do you offer free delivery?", "completion": "Yes, we offer free delivery on orders over $50. Please let me know if you would like to take advantage of this offer."}
+{"prompt": "Do you offer discounts for first responders?", "completion": "Yes, we offer discounts for first responders. Please let me know if you would like to know more about our discount offers."}
+{"prompt": "Do you offer express checkout?", "completion": "Yes, we offer express checkout for a faster checkout experience. Please let me know if you would like to know more about our express checkout feature."}
+{"prompt": "Do you offer a loyalty program?", "completion": "Yes, we have a loyalty program which rewards customers for their loyalty. Please let me know if you would like to know more about our loyalty program."}
+{"prompt": "Do you offer discounts for returning customers?", "completion": "Yes, we offer discounts for returning customers. Please let me know if you would like to know more about our discount offers."}
+{"prompt": "Do you offer any special promotions?", "completion": "Yes, we have regular promotional offers that can be found on our website. Please let me know if you would like to know more about them."}
+{"prompt": "Do you accept payment in other currencies?", "completion": "Yes, we accept payment in other major currencies. Please let me know if you would like to know more about our payment options."}
+{"prompt": "Do you offer a rewards program?", "completion": "Yes, we have a loyalty rewards program which rewards customers for their loyalty. Please let me know if you would like to know more about our loyalty rewards program."}
+{"prompt": "Do you offer discounts for group orders?", "completion": "Yes, we offer discounts for group orders. Please let me know if you would like to know more about our discount offers."}
+{"prompt": "Do you offer free samples?", "completion": "Yes, we offer free samples for select items. Please let me know if you would like to know more about our free sample offers."}
+{"prompt": "How can I track my order?", "completion": "You can track your order in your account on our website."}
+{"prompt": "What is the return policy?", "completion": "We offer a 30-day return policy on all our products. Please refer to our Return Policy for more details."}
+{"prompt": "What payment methods do you accept?", "completion": "We accept Visa, Mastercard, American Express, and PayPal."}
+{"prompt": "How long does shipping take?", "completion": "Standard shipping usually takes 3-5 business days."}
+{"prompt": "What is the warranty for your products?", "completion": "All our products come with a 1-year limited warranty."}
+{"prompt": "Do you have any discounts available?", "completion": "Yes, we do offer discounts from time to time. Please refer to our promotions page for more details."}
+{"prompt": "Can I cancel my order?", "completion": "Yes, you can cancel your order if it has not already been shipped. Please contact our Customer Service team for more details."}
+{"prompt": "Where is your store located?", "completion": "Our store is located at 123 Main Street in Anytown, USA."}
+{"prompt": "Do you offer gift cards?", "completion": "Yes, we do offer gift cards in various denominations."}
+{"prompt": "Do you have a size chart?", "completion": "Yes, we do have a size chart available on our website."}
+{"prompt": "Can I pick up my order in store?", "completion": "Yes, you can pick up your order at our store location. Please contact us for more information."}
+{"prompt": "What is your phone number?", "completion": "Our Customer Service phone number is 1-800-123-4567."}
+{"prompt": "What is your email address?", "completion": "Our Customer Service email address is help@example.com."}
+{"prompt": "What are your hours of operation?", "completion": "We are open from 8am to 8pm Monday through Friday, and 9am to 5pm on Saturday and Sunday."}
+{"prompt": "Do you have a rewards program?", "completion": "Yes, we do have a rewards program that our customers can join. Please refer to our Rewards page for more information."}
+{"prompt": "Can I make changes to my order?", "completion": "Yes, you can make changes to your order as long as it has not already been shipped. Please contact our Customer Service team for more details."}
+{"prompt": "Do you offer gift wrapping?", "completion": "Yes, we do offer gift wrapping services. Please contact us for more information."}
+{"prompt": "Do you offer international shipping?", "completion": "Yes, we do offer international shipping. Please refer to our Shipping page for more information."}
+{"prompt": "What is the cost of shipping?", "completion": "The cost of shipping depends on the destination and the size of the package. Please refer to our Shipping page for more information."}
+{"prompt": "Do you have a loyalty program?", "completion": "Yes, we do have a loyalty program for our customers. Please refer to our Loyalty Program page for more information."}
+{"prompt": "Can I change my shipping address?", "completion": "Yes, you can change your shipping address as long as your order has not already been shipped. Please contact our Customer Service team for more details."}
+{"prompt": "Do you offer express shipping?", "completion": "Yes, we do offer express shipping for an additional cost. Please refer to our Shipping page for more information."}
+{"prompt": "Can I order items that are out of stock?", "completion": "Yes, you can order items that are out of stock. Please contact us for more information."}
+{"prompt": "Do you offer free returns?", "completion": "Yes, we do offer free returns within 30 days of purchase. Please refer to our Return Policy for more details."}
+{"prompt": "Do you offer discounts for large orders?", "completion": "Yes, we do offer discounts for large orders. Please contact us for more information."}
+{"prompt": "What is the estimated delivery time?", "completion": "The estimated delivery time depends on the shipping method selected. Please refer to our Shipping page for more information."}
+{"prompt": "What is your refund policy?", "completion": "We offer a 30-day refund policy on all our products. Please refer to our Refund Policy for more details."}
+{"prompt": "Do you offer gift certificates?", "completion": "Yes, we do offer gift certificates in various denominations."}
+{"prompt": "Do you have any special offers?", "completion": "Yes, we do have special offers from time to time. Please refer to our Promotions page for more details."}
+{"prompt": "Do you offer overnight shipping?", "completion": "Yes, we do offer overnight shipping for an additional cost. Please refer to our Shipping page for more information."}
+{"prompt": "Do you have any coupons available?", "completion": "Yes, we do have coupons available from time to time. Please refer to our Promotions page for more details."}
+{"prompt": "What is the minimum order quantity?", "completion": "The minimum order quantity depends on the product. Please refer to the product page for more information."}
+{"prompt": "Do you have a store near me?", "completion": "Yes, we do have stores located in various cities. Please refer to our Store Locator page for more information."}
+{"prompt": "Do you offer bulk discounts?", "completion": "Yes, we do offer bulk discounts for large orders. Please contact us for more information."}
+{"prompt": "Do you have a catalog?", "completion": "Yes, we do have a catalog available for download on our website."}
+{"prompt": "How do I contact customer service?", "completion": "You can contact our Customer Service team via email at help@example.com or by phone at 1-800-123-4567."}
+{"prompt": "Do you have a loyalty program?", "completion": "Yes, we do have a loyalty program for our customers. Please refer to our Loyalty Program page for more information."}
+{"prompt": "How can I get a discount code?", "completion": "Discount codes are available from time to time. Please refer to our Promotions page for more details."}
+{"prompt": "Do you offer free shipping?", "completion": "Yes, we do offer free shipping on orders over a certain amount. Please refer to our Shipping page for more information."}
+{"prompt": "Do you have a satisfaction guarantee?", "completion": "Yes, we do have a satisfaction guarantee on all our products. Please refer to our Satisfaction Guarantee page for more details."}
+{"prompt": "Do you offer same day shipping?", "completion": "Yes, we do offer same day shipping for an additional cost. Please refer to our Shipping page for more information."}
+{"prompt": "What is the minimum order amount?", "completion": "The minimum order amount depends on the product. Please refer to the product page for more information."}
+{"prompt": "Do you have a referral program?", "completion": "Yes, we do have a referral program for our customers. Please refer to our Referral Program page for more information."}
+{"prompt": "Do you offer wholesale pricing?", "completion": "Yes, we do offer wholesale pricing for large orders. Please contact us for more information."}
+{"prompt": "How long will my order take to arrive?", "completion": "The estimated delivery time depends on the shipping method selected. Please refer to our Shipping page for more information."}
+{"prompt": "Do you have a mailing list?", "completion": "Yes, we do have a mailing list that our customers can join. Please refer to our Mailing List page for more information."}
+{"prompt": "What is the return policy?", "completion": "We offer a 30-day return policy on all our products. Please refer to our Return Policy for more details."}
+{"prompt": "Do you offer discounts for first-time customers?", "completion": "Yes, we do offer discounts for first-time customers. Please refer to our Promotions page for more details."}
+{"prompt": "Do you offer a satisfaction guarantee?", "completion": "Yes, we do have a satisfaction guarantee on all our products. Please refer to our Satisfaction Guarantee page for more details."}
+{"prompt": "Do you offer express delivery?", "completion": "Yes, we do offer express delivery for an additional cost. Please refer to our Shipping page for more information."}
+{"prompt": "What is your shipping policy?", "completion": "Please refer to our Shipping page for more information on our shipping policies."}
+{"prompt": "Do you offer a price match guarantee?", "completion": "Yes, we do offer a price match guarantee on all our products. Please refer to our Price Match Guarantee page for more details."}
+{"prompt": "Do you offer returns on custom orders?", "completion": "No, we do not offer returns on custom orders. Please contact us for more information."}
+{"prompt": "Do you offer discounts for military personnel?", "completion": "Yes, we do offer discounts for military personnel. Please refer to our Promotions page for more details."}
+{"prompt": "Do you offer free returns?", "completion": "Yes, we do offer free returns within 30 days of purchase. Please refer to our Return Policy for more details."}
+{"prompt": "Do you offer cash on delivery?", "completion": "No, we do not offer cash on delivery. We only accept payment via credit card, debit card, or PayPal."}
+{"prompt": "Do you offer international returns?", "completion": "Yes, we do offer international returns. Please refer to our Return Policy for more details."}
+{"prompt": "What is the delivery charge?", "completion": "The delivery charge depends on the destination and the size of the package. Please refer to our Shipping page for more information."}
+{"prompt": "Do you offer discounts for students?", "completion": "Yes, we do offer discounts for students. Please refer to our Promotions page for more details."}
+{"prompt": "Do you offer custom orders?", "completion": "Yes, we do offer custom orders. Please contact us for more information."}
+{"prompt": "Do you offer discounts for returning customers?", "completion": "Yes, we do offer discounts for returning customers. Please refer to our Promotions page for more details."}
+{"prompt": "Do you offer discounts for bulk orders?", "completion": "Yes, we do offer discounts for bulk orders. Please contact us for more information."}
+{"prompt": "What is your return policy?", "completion": "We offer a 30-day return policy."}
+{"prompt": "Do you have any discounts?", "completion": "We offer a variety of discounts and promotions."}
+{"prompt": "How do I track my order?", "completion": "You can track your order using the tracking number provided in your order confirmation email."}
+{"prompt": "When will I receive my order?", "completion": "Your order should arrive within the estimated delivery time provided during checkout."}
+{"prompt": "How do I change my order?", "completion": "To change your order, please contact our Customer Service team."}
+{"prompt": "Do you have a size chart?", "completion": "Yes, we have a size chart available on our website."}
+{"prompt": "What payment methods do you accept?", "completion": "We accept Visa, Mastercard, American Express, and PayPal."}
+{"prompt": "How can I contact you?", "completion": "You can contact us by phone, email, or through our website."}
+{"prompt": "How can I cancel my order?", "completion": "To cancel your order, please contact our Customer Service team."}
+{"prompt": "How long does it take to process an order?", "completion": "Orders typically take 1-2 business days to process."}
+{"prompt": "Do you offer express shipping?", "completion": "Yes, we offer express shipping for orders placed before 11am EST."}
+{"prompt": "Do you offer international shipping?", "completion": "Yes, we offer international shipping to select countries."}
+{"prompt": "Do you have a rewards program?", "completion": "Yes, we have a rewards program for customers who make frequent purchases."}
+{"prompt": "What is your privacy policy?", "completion": "We respect your privacy and take protecting it seriously. Please see our Privacy Policy for more information."}
+{"prompt": "What is your refund policy?", "completion": "We offer refunds for items returned within 30 days of purchase in accordance with our return policy."}
+{"prompt": "Do you offer gift cards?", "completion": "Yes, we offer gift cards in various denominations."}
+{"prompt": "Do you have a loyalty program?", "completion": "Yes, we have a loyalty program for customers who make frequent purchases."}
+{"prompt": "Do you offer wholesale pricing?", "completion": "Yes, we offer wholesale pricing for orders over a certain quantity."}
+{"prompt": "What is your warranty policy?", "completion": "We offer a 1-year warranty on all our products in accordance with our warranty policy."}
+{"prompt": "Can I make changes to my order after it has been placed?", "completion": "Yes, you can make changes to your order as long as it has not been shipped yet."}
+{"prompt": "Do you ship to PO Boxes?", "completion": "Yes, we ship to PO Boxes in select countries."}
+{"prompt": "How can I change my shipping address?", "completion": "You can change your shipping address by contacting our Customer Service team."}
+{"prompt": "What are your shipping rates?", "completion": "Our shipping rates vary depending on the destination and the shipping method chosen."}
+{"prompt": "When will my order be shipped out?", "completion": "Your order will be shipped out within 1-2 business days from the date of purchase."}
+{"prompt": "Do you offer free returns?", "completion": "Yes, we offer free returns on all orders within 30 days of purchase."}
+{"prompt": "What is the estimated delivery time for my order?", "completion": "The estimated delivery time for your order will be provided during checkout."}
+{"prompt": "What is your cancellation policy?", "completion": "We offer a 30-day cancellation policy for orders that have not been shipped yet."}
+{"prompt": "Do you have any special offers?", "completion": "We offer a variety of special offers and promotions from time to time."}
+{"prompt":"Can I get a discount if I buy in bulk?","completion":"Yes, we offer bulk discounts for orders over a certain quantity." }
+{"prompt":"Do you provide customer support?","completion":"Yes, we provide customer support through our website and phone line." }
+{"prompt":"Is my information secure when ordering online?","completion":"Yes, all information is encrypted and securely transmitted when ordering online." }
+{"prompt":"What is the status of my order?","completion":"You can check the status of your order using the tracking number provided in your order confirmation email." }
+{"prompt":"Can I add items to my order after it has been placed? ","completion":"Yes, as long as your order has not been shipped yet, you can add items to your order by contacting our Customer Service team." }
+{"prompt":"Do you offer gift wrapping? ","completion":"Yes, we offer gift wrapping options for an additional fee at checkout." }
+{"prompt":"How can I contact customer service? ", 	"completion":"You can contact our Customer Service team by phone, email, or through our website." }
+{"prompt":"How do I use a coupon code? ","completion":"You can use a coupon code at checkout by entering the code in the designated field before completing your purchase." }
+{"prompt":"What is the difference between standard and express shipping? ","completion":"Standard shipping typically takes 5-7 business days, while express shipping takes 1-3 business days." }
+{"prompt":"Are there any taxes or duties on my order? ","completion":"Taxes and duties vary by destination and may be applicable on international orders." }
+{"prompt":"How do I know if my order has been shipped? ","completion":"You will receive an email notification when your order has been shipped with the tracking number included." }
+{"prompt":"Do you offer price matching? ","completion":"Yes, we offer price matching on select products. Please contact our Customer Service team for more information." }
+{"prompt":"Do you accept returns? ","completion":"Yes, we accept returns within 30 days of purchase in accordance with our return policy." }
+{"prompt":"What is the cost of shipping? ","completion":"The cost of shipping will vary depending on the destination and the shipping method chosen." }
+{"prompt":"Can I exchange an item? ", 	"completion":"Yes, you can exchange an item as long as it meets the requirements of our return policy." }
+{"prompt":"Can I get a refund if I am not satisfied with my order? ", 	"completion":"Yes, you can get a refund as long as you meet the requirements of our return policy." }
+{"prompt":"Do you have a store I can visit? ","completion":"No, we are an online-only store and do not have physical stores at this time." }
+{"prompt":"Do you accept international orders? ","completion":"Yes, we accept international orders to select countries. Please contact our Customer Service team for more information." }
