@@ -1,6 +1,6 @@
-# ChatGPT fine-tune with JavaScript
+# ChatGPT fine-tune with Node.js
 
-This project is for fine-tuning ChatGPT for specific tasks with a specific dataset. Example usage: more natural-sounding chatbot.
+ChatGPT fine-tuning allows for customization for a specific task with specific data. This can be used for example if you want to create a more natural-sounding chatbot.
 
 ## Installation
 
@@ -29,6 +29,10 @@ node app.js
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+### dataset
+
+If you want to add more data to the dataset, open a pull request
 
 ## License
 

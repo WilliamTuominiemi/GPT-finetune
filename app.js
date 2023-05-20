@@ -32,13 +32,6 @@ const models = async () => {
     return response
 }
 
-// Create a new model from the training data and log it's id
-const newModel = () => {
-    upload().then((file) => {
-        createModel(file.id).then((model) => console.log(model)) // Save the ID somewhere for later use
-    })
-}
-
 const test = async (model) => {
     const prompt = 'Is there any way to get a discount?' // Same as typing it into ChatGPT site
 
@@ -62,6 +55,13 @@ const test = async (model) => {
     } catch (error) {
         console.error(error)
     }
+}
+
+// Create a new model from the training data and log it's id
+const newModel = () => {
+    upload().then((file) => {
+        createModel(file.id).then((model) => console.log(model)) // Save the ID somewhere for later use
+    })
 }
 
 const run = () => {
