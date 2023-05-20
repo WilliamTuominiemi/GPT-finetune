@@ -33,7 +33,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ### dataset
 
 If you want to add more data to the dataset, open a pull request
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
